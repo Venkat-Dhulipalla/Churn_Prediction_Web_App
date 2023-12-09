@@ -1,0 +1,15 @@
+{
+  "creditscore": 800,
+  "age": 50,
+  "tenure": 5,
+  "balance": 6000,
+  "numofproducts": 5,
+  "hascrcard": 1,
+  "isactivemember": 1,
+  "estimatedsalary": 500000,
+  "geography_france": 0,
+  "geography_germany": 1,
+  "geography_spain": 0,
+  "gender_female": 0,
+  "gender_male": 1
+}
